@@ -6,6 +6,9 @@ export default function App() {
     <div className="App">
       <div className='container'>
         <Weather />
+        <footer>
+          This project was coded by <a href='https://github.com/YanaDemchyshyn/react-main-project' target="blank">Yana Demchyshyn</a> and is open-sourced on GitHub
+        </footer>
       </div>
     </div>
   );
